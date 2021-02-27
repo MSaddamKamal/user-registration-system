@@ -12,6 +12,9 @@ It is built on Laravel and Vue.js, accompanied with beautiful UI using Tailwind 
 * Track account acitvity
 * Proper Validation
 
+## Demo
+![Demo](https://raw.githubusercontent.com/MSaddamKamal/user-registration-system/main/gif/user_system_demo.gif)
+
 ## Installation
 
 Create `.env` file at the root of the project and add database credentials
